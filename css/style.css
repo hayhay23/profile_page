@@ -1,0 +1,13 @@
+body{
+
+	background-image: url("../assets/pastel.jpeg");
+	background-color: #80ffd4;
+	color: #730099;
+	text-align: center;
+	font-family: "Comic Sans MS"
+
+}
+#book{
+	height: 200px;
+	width: 150px;
+}
